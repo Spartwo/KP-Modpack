@@ -13,15 +13,17 @@ SIMPSON Multi-Function Radar
 
 The following parts are modified from the works of other authors,and are released under the following licenses:
 
-Airplane Plus | J-52 "Nimrod" Turbofan Engine - Modified from the work of blackheart612 by MiffedStarfish, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-Airplane Plus | J-85 "Tiger" Afterburning Turbofan - Modified from the work of blackheart612 by MiffedStarfish, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-Airplane Plus | Size 1.5 Rotary Cockpit - Modified from the work of blackheart612 by MiffedStarfish, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-Airplane Plus | Mk3 Cargo Cockpit - Modified from the work of blackheart612 by MiffedStarfish, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-BDArmory| [Mini Smoke Dispenser] - Moddified from the work of BahamutoD by Spartwo, released under CC-BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) 
-BDArmory| [single ERA] - Moddified from the work of BahamutoD by Spartwo, released under CC-BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) 
-Cold War Aerospace | Size 4 Cargo Ramp - Modified and retextured from the work of L0ck0n by MiffedStarfish, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-Nice MKSeries Body | Mk1 Fifth Generation Cockpit - Modified from the work of Bingo by MiffedStarfish, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-Nice MKSeries Body | Mk2 Fifth Generation Cockpit - Modified from the work of Bingo by MiffedStarfish, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Airplane Plus | J-52 "Nimrod" Turbofan Engine - Modified from the work of blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Airplane Plus | J-85 "Tiger" Afterburning Turbofan - Modified from the work of blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Airplane Plus | Mk3 Cargo Cockpit - Modified from the work of blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Airplane Plus | Size 1.5 Commercial Cockpit - Modified from the work of blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Airplane Plus | Size 1.5 Rotary Cockpit - Modified from the work of blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Airplane Plus | Size 2 Commercial Cockpit - Modified from the work of blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+BDArmory| [Mini Smoke Dispenser] - Moddified from the work of BahamutoD, released under CC-BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) 
+BDArmory| [single ERA] - Moddified from the work of BahamutoD, released under CC-BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) 
+Cold War Aerospace | Size 4 Cargo Ramp - Modified and retextured from the work of L0ck0n, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Nice MKSeries Body | Mk1 Fifth Generation Cockpit - Modified from the work of Bingo, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Nice MKSeries Body | Mk2 Fifth Generation Cockpit - Modified from the work of Bingo, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 The following parts are created by other authors and used without any modifications, and are released under the following licenses:
 
