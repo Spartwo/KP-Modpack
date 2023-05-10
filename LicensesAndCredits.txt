@@ -8,9 +8,9 @@ The following parts are wholly original, and released for use only with all righ
 
 EsperiEye AEW&C Radar - by MiffedStarfish, released with all rights reserved
 Neolidas High-Power Microwave Turret - by MiffedStarfish, released with all rights reserved
-P-530 “Sturgeon” Naval Propeller- by MiffedStarfish, released with all rights reserved
-P-120 “Herring” Naval Propeller - by MiffedStarfish, released with all rights reserved
-P-50 “Minnow” Naval Propeller - by MiffedStarfish, released with all rights reserved
+P-530 “Sturgeon” Marine Propeller- by MiffedStarfish, released with all rights reserved
+P-120 “Herring” Marine Propeller - by MiffedStarfish, released with all rights reserved
+P-50 “Minnow” Marine Propeller - by MiffedStarfish, released with all rights reserved
 PLETELYOS Inertial Confinement Fusion Engine - by MiffedStarfish, released with all rights reserved
 SIMPSON Multi-Function Radar - by MiffedStarfish, released with all rights reserved
 
