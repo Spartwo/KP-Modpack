@@ -6,15 +6,21 @@ The Kerbal Powers modpack contains a mixture of parts taken from other mods, par
 
 The following parts are wholly original, and released for use only with all rights reserved.
 
-EsperiEye AEW&C Radar
-Neolidas High-Power Microwave Turret
-PLETELYOS Inertial Confinement Fusion Engine
-SIMPSON Multi-Function Radar
+EsperiEye AEW&C Radar - by MiffedStarfish, released with all rights reserved
+Neolidas High-Power Microwave Turret - by MiffedStarfish, released with all rights reserved
+P-530 “Sturgeon” Naval Propeller- by MiffedStarfish, released with all rights reserved
+P-120 “Herring” Naval Propeller - by MiffedStarfish, released with all rights reserved
+P-50 “Minnow” Naval Propeller - by MiffedStarfish, released with all rights reserved
+PLETELYOS Inertial Confinement Fusion Engine - by MiffedStarfish, released with all rights reserved
+SIMPSON Multi-Function Radar - by MiffedStarfish, released with all rights reserved
 
 The following parts are modified from the works of other authors,and are released under the following licenses:
 
 Airplane Plus | J-52 "Nimrod" Turbofan Engine - Modified from the work of blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 Airplane Plus | J-85 "Tiger" Afterburning Turbofan - Modified from the work of blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Airplane Plus | Mk1 Inline Non-Commercial Cockpit - by blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Airplane Plus | Mk1 Rotary Cockpit - By blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Airplane Plus | Mk1 Non-Commercial Cockpit - By blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 Airplane Plus | Mk3 Cargo Cockpit - Modified from the work of blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 Airplane Plus | Size 1.5 Commercial Cockpit - Modified from the work of blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 Airplane Plus | Size 1.5 Rotary Cockpit - Modified from the work of blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -25,14 +31,8 @@ Cold War Aerospace | Size 4 Cargo Ramp - Modified and retextured from the work o
 Nice MKSeries Body | Mk1 Fifth Generation Cockpit - Modified from the work of Bingo, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 Nice MKSeries Body | Mk2 Fifth Generation Cockpit - Modified from the work of Bingo, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-The following parts are created by other authors and used without any modifications, and are released under the following licenses:
+The following parts are created by other authors and included without any modifications, and are released under the following licenses:
 
-Airplane Plus | Mk1 Inline Non-Commercial Cockpit - by blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-Airplane Plus | Mk1 Rotary Cockpit - By blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-Airplane Plus | Mk1 Non-Commercial Cockpit - By blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-Airplane Plus | Mk1 Non-Commercial Cockpit - By blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-Airplane Plus | Size 1.5 Commercial Cockpit - By blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-Airplane Plus | Size 2 Commercial Cockpit - By blackheart612, released under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 Kerbal Powers is a nation roleplaying game using the Kerbol System as its setting. If you'd like to join in, check out the following links: 
