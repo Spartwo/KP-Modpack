@@ -1,5 +1,0 @@
-@PART[BD*Armor]
-{
-	@breakingForce = 800
-	@breakingTorque = 800
-}
