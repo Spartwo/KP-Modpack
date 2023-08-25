@@ -1,0 +1,77 @@
+﻿PART
+{
+name = Turbine
+module = Part
+author = Porkjet maybe I'm just guessing
+
+MODEL
+{
+	model = KerbalPowers/Naval/Parts/Electrical/Turbine/turbine
+	texture = Squad/Parts/Engine/jetEngines/Jet Engines
+	texture = Squad/Parts/Engine/liquidEngineLV-T45/model000
+}
+rescaleFactor = 1
+node_stack_top = 0.0, 3.125, 0.0, 0.0, 1.0, 2
+node_stack_bottom = 0.0, -3.125, 0.0, 0.0, -1.0, 2
+TechRequired = specializedElectrics
+entryCost = 13500
+cost = 4500
+category = Electrical
+subcategory = 0
+title = #autoLOC_500649 //#autoLOC_500649 = Fuel Cell Array
+manufacturer = #autoLOC_501636 //#autoLOC_501636 = Zaltonic Electronics
+description = #autoLOC_500650 //#autoLOC_500650 = Why have just one fuel cell when you can have six?  The fuel cell array is ideal for situations where you need a large source of reliable power.  Like the smaller fuel cells, this array operates by converting fuel and oxidizer into energy.
+attachRules = 0,1,0,0,0
+
+// --- standard part parameters ---
+mass = 0.24
+dragModelType = default
+maximum_drag = 0.2
+minimum_drag = 0.2
+angularDrag = 2
+crashTolerance = 7
+maxTemp = 2000 // = 3000
+bulkheadProfiles = srf
+tags = #autoLOC_500651 //#autoLOC_500651 = array bank charge convert e/c elect energ pack power volt watt
+
+	MODULE
+	{
+		 name = ModuleResourceConverter
+		 ConverterName = Turbine
+		 StartActionName = Start Turbine
+		 StopActionName = Stop Turbine
+		 ToggleActionName = Toggle Turbine
+		 FillAmount = 0.95
+		AutoShutdown = false
+		GeneratesHeat = false
+		UseSpecialistBonus = false
+
+		 
+		INPUT_RESOURCE
+		{
+			ResourceName = LiquidFuel
+			Ratio = 0.2025
+			FlowMode = STAGE_PRIORITY_FLOW
+  		}
+		OUTPUT_RESOURCE
+		{
+			ResourceName = ElectricCharge
+			Ratio = 180
+			DumpExcess = false
+		}
+	}
+	
+	RESOURCE
+	{
+		name = ElectricCharge
+		amount = 300
+		maxAmount = 3000
+	}
+
+	MODULE
+	{
+		name = ModuleCargoPart
+		packedVolume = 6500
+	}
+
+}
