@@ -4,3 +4,6 @@ Correct COL :
 Lazy Paint :
 CameraTools :
 Precise Editor :
+Stock Waterfall Effects :
+Waterfall :
+Scatterer :
