@@ -1,9 +1,30 @@
-Mouse Aim Flight : 
-Hangar Extender :
-Correct COL :
-Lazy Paint :
-CameraTools :
-Precise Editor :
-Stock Waterfall Effects :
-Waterfall :
-Scatterer :
+
+
+Mouse Aim Flight : https://legacy.curseforge.com/kerbal/ksp-mods/mouse-aim-flight
+
+Hangar Extender : https://spacedock.info/mod/1428/HangerExtender
+  DEPENDENCIES
+  - Click Through Blocker: https://spacedock.info/mod/1689/Click%20Through%20Blocker?ga=%253CGame+3102+%2527Kerbal+Space+Program%2527%253E
+  - Toolbar Controller: https://github.com/linuxgurugamer/ToolbarControl/releases
+
+Correct COL : https://spacedock.info/mod/789/CorrectCoL
+  DEPENDENCIES
+  - Click Through Blocker: https://spacedock.info/mod/1689/Click%20Through%20Blocker?ga=%253CGame+3102+%2527Kerbal+Space+Program%2527%253E
+  - Toolbar Controller: https://github.com/linuxgurugamer/ToolbarControl/releases
+
+Lazy Paint : https://spacedock.info/mod/3415/Lazy Painter
+  DEPENDENCIES
+  - Textures Unlimited Recolor Depot: (MULTIPLE)
+    + Stock Recolor: https://drive.google.com/file/d/1PczfhPGESs433kiZotKV6W1T6Ak04F0j/view
+
+CameraTools : https://spacedock.info/mod/2657/Camera%20Tools%20continued
+
+Precise Editor : https://github.com/zolotiyeruki/PreciseEditor/blob/master/PreciseEditor.zip
+
+Stock Waterfall Effects : https://github.com/KnightofStJohn/StockWaterfallEffects/releases
+  DEPENDENCIES
+  - Waterfall Mod: https://github.com/post-kerbin-mining-corporation/Waterfall/releases
+
+Waterfall : https://github.com/post-kerbin-mining-corporation/Waterfall/releases
+
+Scatterer : https://spacedock.info/mod/141/scatterer
