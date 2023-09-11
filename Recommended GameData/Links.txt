@@ -17,6 +17,8 @@ Lazy Paint : https://spacedock.info/mod/3415/Lazy Painter
   - Textures Unlimited Recolor Depot: (MULTIPLE)
     + Stock Recolor: https://drive.google.com/file/d/1PczfhPGESs433kiZotKV6W1T6Ak04F0j/view
 
+TexturesUnlimited : https://github.com/shadowmage45/TexturesUnlimited/releases (Required for TURD Configs)
+
 CameraTools : https://spacedock.info/mod/2657/Camera%20Tools%20continued
 
 Precise Editor : https://github.com/zolotiyeruki/PreciseEditor/blob/master/PreciseEditor.zip
