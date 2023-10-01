@@ -1,0 +1,346 @@
+Version V2.5.0 For KSP 1.8-1.12
+Complete Version
+Add：
+DF-17
+HQ-2
+LT-2
+SY-1
+TY-90
+YJ-91 HARM
+T-14 Tank Turret
+TU4 Self-Defence Turret with Two 23MM cannon
+RVV-AE-PD（replace R77MPD）
+FAB-5000 
+S-21 ROCKET
+M50 Turret
+ZIS-2 57MM
+T-34-85 Turret
+
+Something Interesting：
+Air Based 76MM Cannon
+LAD-X Low Altitude Dispenser
+BGM-154 High Speed Anti-Tank Missile 
+
+Fix texture bugs 
+And add [category] based on CommunityCategoryKit(CCK)
+--------------------------------------------------------------------
+Version V2.4.1 For KSP 1.6.X
+
+
+Improvement:
+
+
+
+
+Additional optional armor was added to the 99A
+Remade HHQ-10 missile
+Some data have been adjusted.
+
+改进：
+为99A车体新增了可选择的附加装甲
+重做了海红旗10导弹
+调整了部分数据
+--------------------------------------------------------------------
+Version V2.4 For KSP 1.6.X
+
+	Add:
+
+
+China:
+Type 59 Tank Turret with Type 94 Anti-tank cannon
+PL-15 Long Range Air-to-Air Missile
+
+YJ-9E small anti-ship missile
+
+Europe:
+Bk27 Gun System
+
+Russia:
+GSH230 Dual-barrel 30MM Gun System
+
+
+Heavy Composite Armor Module
+
+
+23MM self-defense turret equipped on TU-4
+
+
+The turret of T62M1 tank
+
+
+
+Improvement:
+
+
+
+
+The armor piercing performance of some projectiles has been adjusted.
+
+
+For PL-10, AIM-9X adds over-the-shoulder launch capability (requiring radar assistance)
+
+Adjusted the mapping of D30 howitzer
+
+
+The performance of AESA radar is reduced.
+
+
+
+
+新增：
+
+中国：
+搭载了94式反坦克炮的59式坦克炮塔
+霹雳15远程空空导弹
+鹰击9E小型空对地导弹
+
+欧洲：
+Bk27航炮系统
+
+俄罗斯：
+GSH230双管30MM航炮系统
+重型复合装甲模块
+TU-4上装备的23MM自卫炮塔
+T62M1坦克的炮塔（抛壳）
+
+美国：
+暂无
+
+
+改进：
+调整了部分弹种的穿甲性能
+为PL-10,AIM-9X增加了越肩发射能力（需要雷达辅助）
+调整了D30榴弹炮的贴图
+削减了AESA雷达的性能
+（还有一些调整但是我忘了是啥）
+
+--------------------------------------------------------------------
+Version V2.3 For KSP 1.4.X
+
+Newly added:
+
+
+China:
+Red flag 19（HQ-19） anti-missile intercept missile
+Eagle strike 18（YJ-18） anti-ship missile
+
+Europe:
+MG3 machine gun weapon station (please remove the original CROWS762)
+Flare shell launcher (artillery)
+French Hispano-Suiza HS.404
+Germany MG151/20 
+German MK103 
+
+Russia:
+AK176MA turret (please remove the original AK176M)
+Rail-176 shipborne electromagnetic gun (fictional)
+SS-26 Iskander Ground-Ground Tactical Missile
+
+United States:
+ALASM-N air-launched anti-satellite nuclear missile (fictional)
+
+
+
+Improvement:
+
+
+
+
+
+Reset HQ-9B models and textures
+Fixed the weight of HQ-9B from 0.4t to 1.3t
+Replace the original AK176M with AK176MA
+Replace the original CROWS762 with MG3 machine gun
+
+
+新增：
+
+中国：
+红旗19反导拦截弹
+鹰击18反舰导弹
+
+欧洲：
+MG3机枪 遥控武器站（请移除原有的 CROWS762 ）
+照明弹发射器（火炮）
+法国西斯帕诺HS404机炮
+德国MG151/20机炮
+德国MK103机炮
+
+俄罗斯：
+AK176MA炮塔（请移除原本的 AK176M ）
+Rail-176舰载电磁炮（虚构）
+SS-26伊斯坎德尔地地战术导弹
+
+美国：
+ALASM-N空射型反卫星核导弹（虚构）
+
+
+改进：
+
+重置了HQ-9B的模型和贴图
+修正了HQ-9B的重量，从0.4t到1.3t
+将原有的AK176M   替换为 AK176MA
+将原有的CROWS762 替换为 遥控MG3机枪
+
+--------------------------------------------------------------------
+Version V2.2
+
+Newly added:
+
+
+
+
+
+Russian Object120 turret
+
+
+
+
+
+
+Improvement:
+
+
+
+
+
+Remade the PGZ07 anti-aircraft gun
+Remade the M2HB heavy machine gun
+Added a new air-to-air missile effect（AIM120D,AIM9X,PL10,PL12,RVV）
+Fixed the problem that the air-to-air missile thrust time is too long
+Fixed incorrect data for HE shell damage
+Fine-tuning of other details
+
+新增：
+
+俄罗斯120工程炮塔
+
+
+改进：
+
+重新制作了PGZ07高射炮
+重新制作了M2HB重机枪
+添加了新的空空导弹尾焰（AIM120D,AIM9X,PL10,PL12,RVV）
+修正了空空导弹推力时间过长的问题
+修正了HE炮弹伤害过高的错误数据
+其它一些细节的微调
+
+--------------------------------------------------------------------
+
+Version V2.1
+
+Newly added:
+
+Russian 2S25M turret
+
+
+Improvement:
+
+Adjust the armored setting of the tank turret
+Fix local language problems
+The performance of the AESA radar is adjusted
+Adjust the missile according to the new BDA version
+
+
+新增：
+
+俄罗斯2S25M炮塔
+
+改进：
+
+调整了坦克炮塔的装甲设定
+修复本地语言问题
+对AESA雷达的性能进行了调整
+根据新的BDA版本调整了导弹
+
+--------------------------------------------------------------------
+Version V2.0
+
+CN: (China)
+
+Newly added：
+
+Chinese Navy 100MM compact naval gun (France)
+LS6 gliding guided bomb
+PGZ-07 double 35 anti-aircraft cannon
+PL8 air to air missile
+PLZ05 artillery turret (new muzzle effect)
+346B AESA radar
+
+Improvement：
+
+Refine the ZBL08 turret
+99A2 tank turret replacement map, cannon tube increased skin (new muzzle effect)
+H/PJ-38 replacement of new muzzle
+
+EU: (Europe) (incomplete version)
+
+Newly added：
+
+Meteor air to air missile
+Mika air to air missile (infrared type)
+Weekes air machine gun
+
+RU: (Russia)
+
+Newly added：
+
+D30 122MM grenade artillery (new muzzle effect)
+GSH301 aircraft cannon (gun body)
+RVV-AE-PD long-range air to air missile
+UPK-23 gun pod
+
+Improvement：
+
+Re - adjusted the model of VA-111 storm torpedo
+
+US: (United States)
+
+Improvement：
+
+CROWS 12.7MM weapon station model reset, adding smoke bombs.
+--------------------------------------------------------------------
+
+CN：（中国）
+
+新增：
+
+中国海军100MM紧凑型舰炮（法国）
+LS6滑翔制导炸弹
+PGZ-07双35高炮
+PL8空空导弹
+PLZ05榴弹炮炮塔（新炮口效果）
+346B相控阵雷达
+
+改进：
+
+细化了ZBL08炮塔
+99A2坦克的炮塔更换贴图，炮管增加蒙皮（新炮口效果）
+H/PJ-38更换新炮口效果
+
+EU：（欧洲）（并不完善版本）
+
+新增：
+
+流星空空导弹
+米卡空空导弹（红外型）
+威克斯航空机枪
+
+RU：（俄罗斯）
+
+新增：
+
+D30 122MM榴弹炮（新炮口效果）
+GSH301航炮（炮身）
+RVV-AE-PD远程空空导弹
+UPK-23航炮吊舱
+
+改进：
+
+重新调整了VA-111暴风雪鱼雷的模型
+
+US：（美国）
+
+改进：
+
+CROWS 12.7MM武器站模型重置，添加烟雾弹
