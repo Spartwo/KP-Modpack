@@ -1,3 +1,2 @@
-USI / Roverdude - Bubbles Effect
-Squad - Pontoon base Models
-MiffedStarfish - Propeller Models
+USI / Roverdude - Bubbles Emission
+Squad - Pontoon base model
