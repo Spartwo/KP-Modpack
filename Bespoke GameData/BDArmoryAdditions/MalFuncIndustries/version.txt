@@ -1,9 +1,0 @@
-Version R09 Final version from The Morris
-//////////////////////////////////////////////
-V0.99.95  Initial 1.4.3 pre release testing 
-V0.99.96  Retuned all missiles (thanks to Kergan)  Remade to correct dimensions Otom 76, Remade to correct model and usage issues MK29launcher and Rim162 cap and rim 162 missiles. Condensed files to remove duplicate textures, resized textures to sensible sizes. Pre release review.
-V0.99.97 - KSP 1.4.3 initial release.  
-V0.99.98 - KSP 1.4.3 Fix for RAM Launcher Turret showing as unknown part in editor 
-V0.99.98.1 - KSP 1.4.3 Fix for RAM Launcher Turret MK49 attach rules
-V0.99.98.2 - KSP 1.4.4 complete remake of MK41 vls tubes, not likely to be craft safe
- 
