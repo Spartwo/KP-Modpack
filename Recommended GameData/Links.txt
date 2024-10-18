@@ -13,9 +13,10 @@ Lazy Paint : https://spacedock.info/mod/3415/Lazy Painter
   - Textures Unlimited Recolor Depot: (MULTIPLE)
     + Stock Recolor: https://drive.google.com/file/d/1PczfhPGESs433kiZotKV6W1T6Ak04F0j/view
     + DLC Recolor: https://github.com/OnlyLightMatters/TURD-MH-BG/releases
-    + OPT Recolor: https://drive.google.com/file/d/1RJIi1rgDFiReD_DE43aXuXCftknazEMc/view
 
-TexturesUnlimited : https://github.com/shadowmage45/TexturesUnlimited/releases (Required for TURD Configs)
+DeferredRendering : https://github.com/LGhassen/Deferred/releases
+
+TexturesUnlimited : https://github.com/LGhassen/TexturesUnlimited/releases/ (Required for TURD Configs)
 
 CameraTools : https://spacedock.info/mod/2657/Camera%20Tools%20continued
 
@@ -26,3 +27,5 @@ Stock Waterfall Effects : https://github.com/KnightofStJohn/StockWaterfallEffect
   - Waterfall Mod: https://github.com/post-kerbin-mining-corporation/Waterfall/releases
 
 Scatterer : https://spacedock.info/mod/141/scatterer
+
+KSP Community Fixes : https://github.com/KSPModdingLibs/KSPCommunityFixes/releases
