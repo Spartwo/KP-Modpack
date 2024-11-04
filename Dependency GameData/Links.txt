@@ -1,5 +1,6 @@
 BD Armory : https://github.com/BrettRyland/BDArmory/releases
 BD Armory Extended : https://github.com/BrettRyland/BDArmory-Extended/releases
+Refurbished Armory: https://github.com/Spartwo/Refurbished-Armory/releases
 KCS : https://github.com/Halbann/StockCombatAI/releases
 
 Use Most Recent Versions Of All, these dependencies are being updated
